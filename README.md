@@ -12,10 +12,6 @@ This project implements a dynamic host blocking system using Software Defined Ne
 ## Topology
 Single switch topology:
 
-h1  h2  h3
- \  |  /
-   s1
-
 h1 = client  
 h2 = server  
 h3 = attacker  
