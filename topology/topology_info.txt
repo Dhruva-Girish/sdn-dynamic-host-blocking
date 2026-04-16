@@ -1,0 +1,12 @@
+Mininet Topology
+
+h1   h2   h3
+  \   |   /
+      s1
+       |
+   POX Controller
+
+h1 = Client
+h2 = Server
+h3 = Suspicious host
+s1 = OpenFlow switch
