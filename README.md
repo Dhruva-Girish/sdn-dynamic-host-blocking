@@ -4,10 +4,10 @@
 This project implements a dynamic host blocking system using Software Defined Networking (SDN). The controller monitors traffic and blocks hosts that generate suspicious activity.
 
 ## Tools Used
-Mininet – used to simulate the network topology with hosts and switches.
-POX Controller – acts as the SDN controller that monitors traffic and installs blocking rules.
-OpenFlow – protocol used for communication between the controller and switch to install flow rules.
-Python – programming language used to implement the controller logic.
+- Mininet – used to simulate the network topology with hosts and switches.
+- POX Controller – acts as the SDN controller that monitors traffic and installs blocking rules.
+- OpenFlow – protocol used for communication between the controller and switch to install flow rules.
+- Python – programming language used to implement the controller logic.
 
 ## Topology
 Single switch topology:
